@@ -19,8 +19,6 @@ def random_fun():
     password = ''.join(random.choices(chars, k=12))
     print(f"\nRandom password: {password}")
 
-    # Random color (hex)
-    color = "#{:06x}".format(random.randint(0, 0xFFFFFF))
-    print(f"Random hex color: {color}")
+  
 
 random_fun()
