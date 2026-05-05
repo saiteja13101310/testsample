@@ -1,4 +1,4 @@
-import random
+yimport random
 
 def random_fun():
     # Random number tricks
@@ -19,6 +19,6 @@ def random_fun():
     password = ''.join(random.choices(chars, k=12))
     print(f"\nRandom password: {password}")
 
-  
+  edited by manish----
 
 random_fun()
