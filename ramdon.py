@@ -19,6 +19,7 @@ def random_fun():
     password = ''.join(random.choices(chars, k=12))
     print(f"\nRandom password: {password}")
 
+  edited by priya
   edited by manish----
 
 random_fun()
