@@ -1,4 +1,4 @@
-import random
+yimport random
 
 def random_fun():
     # Random number tricks
@@ -20,5 +20,6 @@ def random_fun():
     print(f"\nRandom password: {password}")
 
   edited by priya
+  edited by manish----
 
 random_fun()
